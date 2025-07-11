@@ -1,0 +1,10 @@
+.container{
+    background-color: bisque;
+}
+.content{
+    background-color: brown;
+    font-size: 2em;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 50px;
+}
